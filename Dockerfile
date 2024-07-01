@@ -7,6 +7,6 @@ WORKDIR /go
 COPY . compliance
 RUN cd compliance && make clean && make
 
-FROM alpine:3.18
+FROM alpine:3.20
 MAINTAINER KhulnaSoft
 COPY --from=builder /go/compliance/compliance /usr/bin/compliance
