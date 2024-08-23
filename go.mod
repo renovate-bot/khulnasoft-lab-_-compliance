@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.54.11
 	github.com/golang/protobuf v1.5.4
 	github.com/sirupsen/logrus v1.9.3
-	github.com/vishvananda/netlink v1.1.0
+	github.com/vishvananda/netlink v1.3.0
 	github.com/vishvananda/netns v0.0.4
 	k8s.io/api v0.30.2
 )
