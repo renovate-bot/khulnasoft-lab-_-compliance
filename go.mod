@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/compliance
 
 go 1.22.0
 
-toolchain go1.22.4
+toolchain go1.23.2
 
 require (
 	github.com/aws/aws-sdk-go v1.54.11
