@@ -10,7 +10,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/vishvananda/netlink v1.1.0
 	github.com/vishvananda/netns v0.0.4
-	k8s.io/api v0.30.2
+	k8s.io/api v0.34.1
 )
 
 require (
